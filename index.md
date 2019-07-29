@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: ""  
-venue: "The Jackson Laboratory"
+venue: "Quantitative Trait Mapping in the Diversity Outbred"
 address: "Bioinformatics Training Room, 600 Main Street, Bar Harbor ME"
 country: "us"
 language: "en"
@@ -11,7 +11,7 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2019-08-22
 enddate: 2019-08-23
 instructor: ["Dan Gatti", "Sue McClatchy"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 66925017529
