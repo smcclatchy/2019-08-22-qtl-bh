@@ -222,7 +222,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 
 <div class="row">
 <div class="col-md-6">
-<h3>Thursday, June 13</h3>
+<h3>Thursday, Aug 22</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/01-introduction/">Introductions and Workshop Overview</a></td> </tr>
 <tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/mapping/02-input-file-format/">Input File Format</a></td> </tr>
@@ -242,7 +242,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 </table>
 </div>
 <div class="col-md-6">
-<h3>Friday, June 14</h3>
+<h3>Friday, Aug 23</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/09-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model (brief review)</a></td> </tr>
 <tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/mapping/10-perform-genome-scan-bin/">Performing a genome scan with binary traits</a></td> </tr>
