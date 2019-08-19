@@ -11,7 +11,7 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2019-08-22
 enddate: 2019-08-23
 instructor: ["Dan Gatti", "Sue McClatchy"]
-helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Anne Deslattes Mays"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 66925017529
@@ -197,16 +197,8 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
-{% if site.carpentry == "swc" %} 
-<p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.com/r/pre-mapping">Pre-workshop Survey</a></p>
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif site.carpentry == "dc" %}
-<p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% elsif site.carpentry == "lc" %}
-<p><a href="{{ site.lc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% endif %}
 
 <hr/>
 
@@ -225,18 +217,16 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <h3>Thursday, Aug 22</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/01-introduction/">Introductions and Workshop Overview</a></td> </tr>
-<tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/mapping/02-input-file-format/">Input File Format</a></td> </tr>
-<tr> <td>10:00</td>  <td><a href="https://smcclatchy.github.io/mapping/03-calc-genoprob/">Calculating Genotype Probabilities</a></td> </tr>
+<tr> <td>09:30</td>  <td><a href=""https://github.com/smcclatchy/mapping/blob/gh-pages/files/Gatti_DO_qtl2_workshop_2019.pptx"Quantitative trait locus mapping in multiparent crosses
+ (click Download)</td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-<tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/mapping/04-special-x-covar/">Special covariates for the X chromosome</a></td> </tr>
-<tr> <td>11:30</td>  <td><a href="https://smcclatchy.github.io/mapping/05-perform-genome-scan/">Performing a genome scan</a></td> </tr>
+<tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/mapping/02-input-file-format/">Input File Format</a></td> </tr>
 <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:00</td>  <td><a href="https://smcclatchy.github.io/mapping/05-perform-genome-scan/">Performing a genome scan (continued) </a></td> </tr>
-<tr> <td>13:30</td>  <td><a href="https://smcclatchy.github.io/mapping/06-perform-perm-test/">Performing a permutation test</a></td> </tr>
-<tr> <td>14:00</td>  <td><a href="https://smcclatchy.github.io/mapping/07-find-lod-peaks/">Finding LOD peaks</a></td> </tr>
+<tr> <td>13:00</td>  <td><a href="https://smcclatchy.github.io/mapping/03-calc-genoprob/">Calculating Genotype Probabilities</a></td> </tr>
+<tr> <td>14:00</td>  <td><a href="https://smcclatchy.github.io/mapping/04-special-x-covar/">Special covariates for the X chromosome</a></td> </tr>
 <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-<tr> <td>14:45</td>  <td><a href="https://smcclatchy.github.io/mapping/08-calc-kinship/">Calculating A Kinship Matrix</a></td> </tr>
-<tr> <td>15:45</td>  <td><a href="https://smcclatchy.github.io/mapping/09-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model</a></td> </tr>
+<tr> <td>14:45</td>  <td><a href="https://smcclatchy.github.io/mapping/05-perform-genome-scan/">Performing a genome scan</a></td> </tr>
+<tr> <td>15:45</td>  <td><a href="https://smcclatchy.github.io/mapping/06-perform-perm-test/">Performing a permutation test</a></td> </tr>
 <tr> <td>16:25</td>  <td>Wrap-up</td> </tr>
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
@@ -244,15 +234,16 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <div class="col-md-6">
 <h3>Friday, Aug 23</h3>
 <table class="table table-striped">
-<tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/09-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model (brief review)</a></td> </tr>
-<tr> <td>09:30</td>  <td><a href="https://smcclatchy.github.io/mapping/10-perform-genome-scan-bin/">Performing a genome scan with binary traits</a></td> </tr>
-<tr> <td>09:45</td>  <td><a href="https://smcclatchy.github.io/mapping/11-est-qtl-effects/">Estimated QTL effects</a></td> </tr>
+<tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/05-perform-genome-scan/">Recap: genome scans and permutation tests</a></td> </tr>
+<tr> <td>09:15</td>  <td><a href="https://smcclatchy.github.io/mapping/07-find-lod-peaks/">Finding LOD peaks</a></td> </tr>
+<tr> <td>09:45</td>  <td><a href="https://smcclatchy.github.io/mapping/08-calc-kinship/">Calculating A Kinship Matrix</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
-<tr> <td>11:00</td>  <td>Diversity Outbred Mice (lecture)</td> </tr>
+<tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/mapping/09-perform-genome-scan-lmm/">Performing a genome scan with a linear mixed model</a></td> </tr>
 <tr> <td>12:00</td>  <td>Lunch break</td> </tr>
-<tr> <td>13:00</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
+<tr> <td>13:00</td>  <td><a href="https://smcclatchy.github.io/mapping/10-perform-genome-scan-bin/">Performing a genome scan with binary traits</a></td> </tr>
+<tr> <td>13:45</td>  <td><a href="https://smcclatchy.github.io/mapping/11-est-qtl-effects/">Estimated QTL effects</a></td> </tr>
 <tr> <td>14:30</td>  <td>Coffee</td> </tr>
-<tr> <td>14:45</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice (continued)</a></td> </tr>
+<tr> <td>14:45</td>  <td><a href="https://smcclatchy.github.io/mapping/13-qtl-in-do/">QTL analysis in Diversity Outbred Mice</a></td> </tr>
 <tr> <td>16:25</td>  <td>Wrap-up</td> </tr>
 <tr> <td>16:30</td>  <td>End</td> </tr>
 </table>
