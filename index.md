@@ -217,7 +217,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <h3>Thursday, Aug 22</h3>
 <table class="table table-striped">
 <tr> <td>09:00</td>  <td><a href="https://smcclatchy.github.io/mapping/01-introduction/">Introductions and Workshop Overview</a></td> </tr>
-<tr> <td>09:30</td>  <td><a href=""https://github.com/smcclatchy/mapping/blob/gh-pages/files/Gatti_DO_qtl2_workshop_2019.pptx">Quantitative trait locus mapping in multiparent crosses
+<tr> <td>09:30</td>  <td><a href="https://github.com/smcclatchy/mapping/blob/gh-pages/files/Gatti_DO_qtl2_workshop_2019.pptx">Quantitative trait locus mapping in multiparent crosses
  (click Download)</a></td> </tr>
 <tr> <td>10:45</td>  <td>Coffee</td> </tr>
 <tr> <td>11:00</td>  <td><a href="https://smcclatchy.github.io/mapping/02-input-file-format/">Input File Format</a></td> </tr>
