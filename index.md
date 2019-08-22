@@ -13,7 +13,7 @@ enddate: 2019-08-23
 instructor: ["Dan Gatti", "Sue McClatchy"]
 helper: ["Anne Deslattes Mays"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2019-08-22-qtl-bh
 eventbrite: 66925017529
 ---
 
